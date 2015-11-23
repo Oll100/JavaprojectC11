@@ -1,0 +1,5 @@
+1. Think of a Project
+Current favoure is a joke generator, to help with breaking the ice in a friendly environment.
+If that fails, will probably make a simple Tic-Tac-Toe game or a point-and-click shooter.
+
+2. Get it done by the deadline.
