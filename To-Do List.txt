@@ -1,5 +1,13 @@
-1. Think of a Project
-Current favourite is a joke generator, to help with breaking the ice in a friendly environment.
-If that fails, will probably make a simple Tic-Tac-Toe game or a point-and-click shooter.
+Project will be a joke generator.
 
-2. Get it done by the deadline.
+Things to do:
+
+1. Set up a webpage
+2. Create 5 categories of jokes
+3. Find at least 20 jokes for each category
+4. Add a way to insert jokes into one of the 5 categories
+5. Create an user interface to let user pick from categories
+
+Potential addition
+
+6. If there is any leftover time, create an actual "generator" using random strings, taking inspiration from how Dwarf Manager generates its world
