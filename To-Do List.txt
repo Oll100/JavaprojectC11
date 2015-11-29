@@ -1,13 +1,28 @@
-Project will be a joke generator.
+Project will be a silly little joke generator.
+Project is possibly going to be titled "Icebreaker" for its potential utility in opening a conversation.
 
 Things to do:
 
-1. Set up a webpage
+1. Set up a webpage/make a text-based application, leaning towards the latter
 2. Create 5 categories of jokes
 3. Find at least 20 jokes for each category
 4. Add a way to insert jokes into one of the 5 categories
 5. Create an user interface to let user pick from categories
 
-Potential addition
+Scrapped "joke generator" idea, it would only work best for two or three-word sentences and the only amusement from it would stem from absurdity.
 
-6. If there is any leftover time, create an actual "generator" using random strings, taking inspiration from how Dwarf Manager generates its world
+Project outline
+
+Make these into 5 lists in one class file. Have to find the most efficient way to actually incorporate sentences into a list.
+Joke categories:
+"One Liners"
+"Political"
+"Stereotypes"
+"Dark humour"
+"IT/business jokes"
+
+Also a "random" category that picks a random joke from any of the 5 categories.
+
+Should maybe add a way for an user to insert their own joke that will be added into either an "User input" list or an existing one.
+
+The user interface shouldn't be too flashy, just a standard box with 7 clickable buttons, an "execute" lever/bar and a popup text box for custom jokes if added.
