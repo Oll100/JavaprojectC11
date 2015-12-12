@@ -27,7 +27,8 @@ Should maybe add a way for an user to insert their own joke that will be added i
 
 The user interface shouldn't be too flashy, just a standard box with 7 clickable buttons, an "execute" lever/bar and a popup text box for custom jokes if added.
 
-Somewhat ready content:
-
-User Interface Graphics
-Jokes that haven't been integrated into lists yet
+Interface specs:
+Main window of about 400x300 should be enough
+7 buttons, not too large, around 60x30
+One output box of 200x150
+As for graphics, the only feature will be either blue or black text. Preferred black. Font will be standard Times New Roman.
