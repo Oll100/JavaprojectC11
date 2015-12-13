@@ -33,5 +33,3 @@ One information label of 385x105 pixels in the top left
 5 buttons of 350x50 pixels on the left
 One output box of 450x520 pixels on the right side of the window
 As for graphics, the only feature will be either blue or black text. Preferred black. Font will be standard Times New Roman.
-
-rough outline: http://www.upload.ee/files/5399512/Rough_outline.jpg.html
