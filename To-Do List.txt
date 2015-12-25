@@ -15,11 +15,11 @@ Project outline
 
 Make these into 5 lists in one class file. Have to find the most efficient way to actually incorporate sentences into a list.
 Joke categories:
-"One-liners"
-"Political"
-"Stereotypes"
-"Dark humour"
-"IT gags"
+"One-liners" (Give me something simple!)
+"Political" (Make fun of politicians, their antics and the countries they run!)
+"Stereotypes" (Give me something that goes beyond Political Correctness!)
+"Dark humour" (Make me laugh and sad!)
+"IT gags" (Bestow upon me technobabble!)
 
 Also a "random" category that picks a random joke from any of the 5 categories.
 
