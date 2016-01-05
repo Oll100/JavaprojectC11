@@ -2,6 +2,7 @@ package jokeLists;
 
 import java.util.ArrayList;
 import java.util.Random;
+import javax.swing.JOptionPane;
 
 public class OneLiners {
 	
@@ -17,7 +18,7 @@ public class OneLiners {
 		oneLiners.add("A clear conscience is usually the sign of a bad memory.");
 		oneLiners.add("Money talks. I wish mine would stop saying bye.");
 		oneLiners.add("To make mistakes is human, to blame them on somebody else shows management potential.");
-		oneLiners.add("It’s hard to explain puns to kleptomaniacs because they always take things literally.");
+		oneLiners.add("Itâ€™s hard to explain puns to kleptomaniacs because they always take things literally.");
 		oneLiners.add("The dyslexic devil worshipper sold his soul to Santa.");
 		oneLiners.add("Regular naps prevent old age, especially if you take them while driving.");
 		oneLiners.add("I went to the zoo the other day. There was only one dog in it. It was a shitzu.");
@@ -28,10 +29,18 @@ public class OneLiners {
 		oneLiners.add("Child's experience: if your mom is laughing at your dad's jokes, they have guests.");
 		oneLiners.add("A camel can work 10 days without drinking. I can drink 10 days without working.");
 		oneLiners.add("A clean house is the sign of a broken computer.");
+		oneLiners.add("Linux is an user friendly operating system. It's simply highly selective who it is friends with.");
+		oneLiners.add("The police claim to burn all the marijuana they confiscate. Explains the doughnuts.");
+		oneLiners.add("On the other hand, you have different fingers.");
+		oneLiners.add("What's the difference between a girlfriend and a wife? 30 kilos.");
+		oneLiners.add("Distracting fat people is easy. It's a piece of cake.");
 		
 	
 		Random randomOneLiner = new Random();
 		System.out.println(oneLiners.get(4));
+		
+		JOptionPane.showMessageDialog(null, oneLiners.get(randomOneLiner.nextInt(oneLiners.size())), // Pop up box with a random joke.
+		"Standard One-Liner",    JOptionPane.PLAIN_MESSAGE); 
 	
 		for (int i = 0; i < 1; i++) {
 			System.out.println(oneLiners.get(randomOneLiner.nextInt(oneLiners.size()))); // Iterate a random joke from the array list.
