@@ -6,7 +6,7 @@ Things to do:
 1. Set up a webpage/make a text-based application, leaning towards the latter
 2. Create 5 categories of jokes
 3. Find at least 20 jokes for each category
-4. Create an user interface to let user pick from categories without the use of an IDE
+4. Create an user interface to let user pick from categories without the use of an IDE - opted for pop-up boxes instead.
 
 Scrapped "joke generator" idea, it would only work best for two or three-word sentences and the only amusement from it would stem from absurdity.
 
@@ -18,17 +18,5 @@ Joke categories:
 "Political" (Make fun of politicians, their antics and the countries they run!)
 "Stereotypes" (Give me something that goes beyond Political Correctness!)
 "Dark humour" (Make me laugh and sad!)
-"IT gags" (Bestow upon me technobabble!)
 
-Also a "random" category that picks a random joke from any of the 5 categories.
-
-Should maybe add a way for an user to insert their own joke that will be added into either an "User input" list or an existing one.
-
-The user interface shouldn't be too flashy, just a standard box with 7 clickable buttons, an "execute" lever/bar and a popup text box for custom jokes if added.
-
-Interface specs:
-Main window of 900x550 pixels
-One information label of 385x105 pixels in the top left
-5 buttons of 350x50 pixels on the left
-One output box of 450x520 pixels on the right side of the window
-As for graphics, the only feature will be either blue or black text. Preferred black. Font will be standard Times New Roman.
+Funny jokes were damn hard to find.
