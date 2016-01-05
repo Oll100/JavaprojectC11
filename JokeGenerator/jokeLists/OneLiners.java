@@ -37,7 +37,6 @@ public class OneLiners {
 		
 	
 		Random randomOneLiner = new Random();
-		System.out.println(oneLiners.get(4));
 		
 		JOptionPane.showMessageDialog(null, oneLiners.get(randomOneLiner.nextInt(oneLiners.size())), // Pop up box with a random joke.
 		"Standard One-Liner",    JOptionPane.PLAIN_MESSAGE); 
