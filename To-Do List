@@ -1,0 +1,6 @@
+I have chosen to not scrap the project completely and instead improve on it.
+
+1. Move the joke lists into text files.
+2. Combine the classes into one and, using a text box with buttons, let the user select which list of jokes they want to see one from.
+3. Experiment with a string system, making a true Generator. Even if the end product isn't very funny, it might still produce a gem every now and then.
+The generator will be in a Dwarf Fort-esque fashion. An adjective noun is verb noun. For example
